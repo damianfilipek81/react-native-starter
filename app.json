@@ -2,6 +2,15 @@
   "expo": {
     "name": "rn-template",
     "slug": "rn-template",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "android": {
+      "package": "com.dmfilipek.rntemplate"
+    },
+    "ios": {
+      "bundleIdentifier": "com.dmfilipek.rntemplate"
+    },
+    "plugins": [
+      "expo-secure-store"
+    ]
   }
 }

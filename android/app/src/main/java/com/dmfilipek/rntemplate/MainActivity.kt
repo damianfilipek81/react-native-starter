@@ -1,4 +1,4 @@
-package com.rntemplate
+package com.dmfilipek.rntemplate
 
 import android.os.Build
 import android.os.Bundle
